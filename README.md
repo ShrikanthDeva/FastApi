@@ -1,5 +1,5 @@
 # FastAPI
-This is a sample project that was built by following along the YouTube [tutorial](https://www.youtube.com/watch?v=0sOvCWFmrtA) and with the help of the FastAPI [documentation](https://fastapi.tiangolo.com/tutorial/).
+This is a sample project that was built by following along the YouTube [Tutorial](https://www.youtube.com/watch?v=0sOvCWFmrtA) and with the help of the FastAPI [documentation](https://fastapi.tiangolo.com/tutorial/) .
 
 * This project focuses on building a fully featured API, that includes **authentication**, **CRUD Operation** and **Schema Validation**
 * This project extends well past just basic API development. It also covers the tools that surround in building a complete and robust API
