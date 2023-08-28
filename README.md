@@ -21,3 +21,8 @@ This is a sample project that was built by following along the YouTube [Tutorial
 * **FastAPI** - A fast Web framework used to build APIs
 * **Postgres** - A free relational DBMS
 * **SQLAlchemy** - A popular ORM for python
+
+
+# commands
++ sudo docker-compose -f docker-compose-dev.yml up
++ localhost:8000/docs
